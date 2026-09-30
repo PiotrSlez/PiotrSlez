@@ -1,8 +1,4 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on !!!
-  
-- 📫 How to reach me: piotrslezakk@gmail.com
+## Hi
 <!--
 **PiotrSlez/PiotrSlez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
